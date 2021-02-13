@@ -3,6 +3,8 @@ Here is my submission for Free Code Camp's [Tribute Page challenge](https://www.
 
 I decided to create a page for the amazing [Tierra Whack](https://www.youtube.com/channel/UC7v_YlS5RVfKPe8sWfN406A)! I experimented with overlapping objects (text overlapping with an image), custom fonts, and parallax (using JQuery).
 
+LIVE DEMO: https://candideu.github.io/FCC-Tribute-Page/
+
 ## Fonts used
 [Sporting Grotesque](https://velvetyne.fr/fonts/sporting-grotesque/)  
 [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)  
