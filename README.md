@@ -1,7 +1,4 @@
 # FCC-Tribute-Page
-
-
-
 https://user-images.githubusercontent.com/55474996/147032575-741e20e7-5ecd-438d-968d-291c55264a3c.mp4
 
 
@@ -9,7 +6,7 @@ Here is my submission for Free Code Camp's [Tribute Page challenge](https://www.
 
 I decided to create a page for the amazing [Tierra Whack](https://www.youtube.com/channel/UC7v_YlS5RVfKPe8sWfN406A)! I experimented with overlapping objects (text overlapping with an image), custom fonts, and parallax (using JQuery).
 
-LIVE DEMO: https://candideu.github.io/FCC-Tribute-Page/
+## LIVE DEMO: https://candideu.github.io/FCC-Tribute-Page/
 
 ## Fonts used
 [Sporting Grotesque](https://velvetyne.fr/fonts/sporting-grotesque/)  
@@ -20,3 +17,5 @@ LIVE DEMO: https://candideu.github.io/FCC-Tribute-Page/
 [How to Create a Simple Parallax Effect By Sara Vieira](https://www.webdesignerdepot.com/2013/07/how-to-create-a-simple-parallax-effect)  
 [How to Overlap Images in CSS](https://bricampgomez.com/blog/how-to-overlap-images-in-css/)
 [How to Install and Use Web Fonts on Your Site](https://medialoot.com/blog/how-to-use-web-fonts/)
+
+## [Figma Design File](https://www.figma.com/file/Ujovy5AJlb2HpSIYBpUJBI/Tribute-Page?node-id=2%3A6)
