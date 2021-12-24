@@ -9,14 +9,14 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 ## LIVE DEMO: https://candideu.github.io/FCC-Tribute-Page/
 
 ## Fonts used
-[Sporting Grotesque](https://velvetyne.fr/fonts/sporting-grotesque/)  
-[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)  
-[Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro)
+- [Sporting Grotesque](https://velvetyne.fr/fonts/sporting-grotesque/)  
+- [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)  
+- [Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro)
 
 ## Tutorials that helped me
-[How to Create a Simple Parallax Effect By Sara Vieira](https://www.webdesignerdepot.com/2013/07/how-to-create-a-simple-parallax-effect)  
-[How to Overlap Images in CSS](https://bricampgomez.com/blog/how-to-overlap-images-in-css/)
-[How to Install and Use Web Fonts on Your Site](https://medialoot.com/blog/how-to-use-web-fonts/)
+- [How to Create a Simple Parallax Effect By Sara Vieira](https://www.webdesignerdepot.com/2013/07/how-to-create-a-simple-parallax-effect)  
+- [How to Overlap Images in CSS](https://bricampgomez.com/blog/how-to-overlap-images-in-css/)
+- [How to Install and Use Web Fonts on Your Site](https://medialoot.com/blog/how-to-use-web-fonts/)
 
 ## [Figma Design File](https://www.figma.com/file/Ujovy5AJlb2HpSIYBpUJBI/Tribute-Page?node-id=2%3A6)
 
