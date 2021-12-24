@@ -2,7 +2,7 @@
 https://user-images.githubusercontent.com/55474996/147032575-741e20e7-5ecd-438d-968d-291c55264a3c.mp4
 
 
-Here is my submission for Free Code Camp's [Tribute Page challenge](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) (HTML + CSS Certificate).
+Here is my submission for Free Code Camp's [Tribute Page challenge](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) (HTML + CSS Responsive Web Design Certificate).
 
 I decided to create a page for the amazing [Tierra Whack](https://www.youtube.com/channel/UC7v_YlS5RVfKPe8sWfN406A)! I experimented with overlapping objects (text overlapping with an image), custom fonts, and parallax (using JQuery).
 
