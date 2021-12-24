@@ -19,3 +19,5 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 [How to Install and Use Web Fonts on Your Site](https://medialoot.com/blog/how-to-use-web-fonts/)
 
 ## [Figma Design File](https://www.figma.com/file/Ujovy5AJlb2HpSIYBpUJBI/Tribute-Page?node-id=2%3A6)
+
+## [View other projects here](https://github.com/candideu/Free-Code-Camp-Responsive-Web-Design-Projects)
